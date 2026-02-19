@@ -1,2 +1,0 @@
-# smileventory
-inventory website
